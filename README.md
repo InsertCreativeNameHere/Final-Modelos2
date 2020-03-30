@@ -1,6 +1,6 @@
 # Proyecto Final Modelos de programacion 2
 
-Desarrollo de una aplicacion de juegos web en JS y php que haga recomendaciones personalizadas para cada usuario en base a la ip de ingreso del mismo.
+Desarrollo de una aplicacion de juegos web en JS y php que recomiende de forma personalizada los juegos mas usados por el usuario para cada usuario en base a la ip de ingreso del mismo.
 
 Presentado por:
 - Javier Andres Aponte 20172020036
